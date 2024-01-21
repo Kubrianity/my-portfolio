@@ -1,0 +1,15 @@
+.about section{
+  margin:auto;
+}
+.about__title {
+  font-size: var(--h2-font-size);
+  text-align: center;
+}
+.about__description {
+  margin:auto;
+}
+@media screen and (min-width: 768px) {  
+  .about__description {
+    width: 60%;
+  }
+}
