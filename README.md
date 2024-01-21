@@ -1,5 +1,5 @@
 # React Portfolio Project
-This is a responsive react portfolio website showcasing my qualification and projects.<br>
+This is a responsive react portfolio website showcasing my qualifications and projects.<br>
 
 
 ## Credit
