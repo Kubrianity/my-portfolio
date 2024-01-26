@@ -11,7 +11,7 @@ const About = () => {
         Currently I am working as a freelance frontend developer for an ongoing e-commerce platform. 
         Some of my hobbies are watching anime and sci-fi movies, reading art history and following European and World Volleyball Championships.
         One day I want to be able to give life to piano keys with my fingers  &#127929; &#127926;         
-        </p>
+      </p>
     </section>
   );
 }

@@ -19,14 +19,26 @@ const Backend = () => {
             <h3 className="skills__name">Express.js</h3>
           </div>
         </div>
-          <div className="skills__data">
-            <HiCheckBadge />
-            <div>
-              <h3 className="skills__name">MongoDB</h3>
-            </div>
+        <div className="skills__data">
+          <HiCheckBadge />
+          <div>
+            <h3 className="skills__name">Python</h3>
           </div>
+          </div>
+        <div className="skills__data">
+          <HiCheckBadge />
+          <div>
+            <h3 className="skills__name">Laravel</h3>
+          </div>
+        </div>
       </div>
       <div className="skills__group">
+        <div className="skills__data">
+          <HiCheckBadge />
+          <div>
+            <h3 className="skills__name">MongoDB</h3>
+          </div>
+        </div>
         <div className="skills__data">
           <HiCheckBadge />
           <div>
@@ -36,15 +48,15 @@ const Backend = () => {
         <div className="skills__data">
           <HiCheckBadge />
           <div>
-            <h3 className="skills__name">PostgreSQL</h3>
+            <h3 className="skills__name">Flask</h3>
           </div>
         </div>
-          <div className="skills__data">
-            <HiCheckBadge />
-            <div>
-              <h3 className="skills__name">Java/Spring</h3>
-            </div>
+        <div className="skills__data">
+          <HiCheckBadge />
+          <div>
+            <h3 className="skills__name">FastAPI</h3>
           </div>
+        </div>
       </div>
     </div>
     </div>
