@@ -29,7 +29,7 @@
   color: var(--title-color-dark)
 }
 
-.qualification__sections {
+.qualifications {
   display: grid;
   grid-template-columns: 0.5fr;
   justify-content: center;
@@ -95,7 +95,7 @@
 }
 
 @media screen and (max-width: 576px) {
-  .qualification__sections {
+  .qualifications {
     grid-template-columns: initial;
   }
 
